@@ -1,0 +1,43 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+}
+
+.game-container {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+canvas {
+    border: 2px solid white;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+ 
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.press-start-2p-bold {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
